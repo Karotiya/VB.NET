@@ -1,0 +1,16 @@
+C:\Users\mohit\source\repos\Notepad app\bin\Debug\net7.0-windows\Notepad app.exe
+C:\Users\mohit\source\repos\Notepad app\bin\Debug\net7.0-windows\Notepad app.deps.json
+C:\Users\mohit\source\repos\Notepad app\bin\Debug\net7.0-windows\Notepad app.runtimeconfig.json
+C:\Users\mohit\source\repos\Notepad app\bin\Debug\net7.0-windows\Notepad app.dll
+C:\Users\mohit\source\repos\Notepad app\bin\Debug\net7.0-windows\Notepad app.pdb
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\Notepad_app.Form1.resources
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\Notepad app.vbproj.GenerateResource.cache
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\Notepad app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\Notepad app.AssemblyInfoInputs.cache
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\Notepad app.AssemblyInfo.vb
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\Notepad app.vbproj.CoreCompileInputs.cache
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\Notepad app.dll
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\refint\Notepad app.dll
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\Notepad app.pdb
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\Notepad app.genruntimeconfig.cache
+C:\Users\mohit\source\repos\Notepad app\obj\Debug\net7.0-windows\ref\Notepad app.dll
